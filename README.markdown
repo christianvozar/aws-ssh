@@ -12,4 +12,4 @@ Running this simple application will produce entries for your SSH config file fo
 
 For auto-complete (tab) to work you will need to add a line similar to this to your /etc/bashrc file.
 
-`complete -o default -o nospace -W "$(grep -i -e '^host ' ~/.ssh/config | awk '{print substr($0, index($0,$2))}' ORS=' ')" ssh scp sftp`
+`$ complete -o default -o nospace -W "$(grep -i -e '^host ' ~/.ssh/config | awk '{print substr($0, index($0,$2))}' ORS=' ')" ssh scp sftp`

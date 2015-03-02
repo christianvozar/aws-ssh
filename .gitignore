@@ -1,3 +1,6 @@
+# Compiled Binary
+cmd/aws-ssh/aws-ssh
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a

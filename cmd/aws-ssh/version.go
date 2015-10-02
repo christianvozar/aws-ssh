@@ -12,7 +12,7 @@ var (
 const (
 	// Version is the Semantic versioning standard for the appliation.
 	// http://semver.org/
-	Version = "1.0.0"
+	Version = "1.0.2"
 	// PreRelease of the version for the application.
 	PreRelease = "dev"
 )

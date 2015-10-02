@@ -1,3 +1,5 @@
+// Copyright © 2015 Christin R. Vozar
+
 package ssh
 
 // ConnectionEntry represents one host connection entry.

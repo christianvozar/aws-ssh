@@ -3,7 +3,7 @@ script: true
 sudo: false
 
 go:
-  - 1.6
+  - 1.7
   - tip
 
 before_install:

@@ -1,5 +1,4 @@
-// Copyright © 2015-2017 Christian R. Vozar <christian@rogueethic.com>
-// Fabriqué en Nouvelle Orléans ⚜
+// Copyright © 2015-2020 Christian R. Vozar <christian@rogueethic.com>
 
 package main
 

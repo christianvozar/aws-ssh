@@ -8,7 +8,7 @@ Running this simple application will produce entries for your SSH config file fo
 
 `$ AWS_ACCESS_KEY=FOIJEWOEIJDFUHIJ AWS_SECRET_KEY=joasd8jf8a9sjdfaj30jfiojf PRIVATE=true STRICT=false ./aws-ssh > ~/.ssh/config`
 
-### OSX Users
+### macOS Users
 
 For auto-complete (tab) to work you will need to add a line similar to this to your /etc/bashrc file.
 
